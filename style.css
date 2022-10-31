@@ -16,7 +16,8 @@
   width: 100%;
 }
 
-.matrix-part .more-inf {
+.matrix-part,
+.more-inf {
   font-family: fantasy, cursive;
 }
 
